@@ -1,4 +1,5 @@
-Wireless Ants World (A.Yu.Vlasov)
+Wireless Ants World
+A.Yu.Vlasov
 
 Reversible cellular automaton with four states based on irreversible CA with two states.
 ---------------------------------------------------------------------------------------
@@ -34,5 +35,11 @@ WlAnt-4 - total number of odd cells in closest positions is either one
           or two in _opposite_ positions (i.e. up/down or left/right)
 ---------------------------------------------------------------------------------------
 
-Note:
-Script reverse-all.py exchanges all red and green cells to reverse evolution of such automata
+
+See also:
+
+http://ayvlasov.wordpress.com/2012/07/23/qu-ants/
+http://quantumbot.wordpress.com/2013/07/27/reversible-anto-logic/
+http://quantumbot.wordpress.com/2013/08/07/conservative-anto-logic/
+http://ayvlasov.wordpress.com/2014/01/11/wireless-ants-world/
+
